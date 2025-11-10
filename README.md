@@ -1,4 +1,5 @@
 ⚡ Household Energy Consumption Analysis and Prediction
+
 📘 Overview
 This project analyzes household electricity consumption data to uncover patterns of energy usage and identify the most power-intensive areas of a home.
 The dataset includes measurements such as active power, voltage, current intensity, and sub-metering values for kitchen, laundry, and HVAC (AC / water heater) appliances.
